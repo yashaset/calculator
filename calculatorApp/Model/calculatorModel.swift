@@ -42,5 +42,5 @@ enum Keys:String{
 
 
 enum Operation{
-    case add, subtract, multiply, divide, percent, none
+    case add, subtract, multiply, divide, none
 }
